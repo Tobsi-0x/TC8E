@@ -1,0 +1,3 @@
+C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/build/CMakeFiles/TC8E.dir
+C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/build/CMakeFiles/edit_cache.dir
+C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/build/CMakeFiles/rebuild_cache.dir
