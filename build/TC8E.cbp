@@ -82,7 +82,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/main.cpp">
+		<Unit filename="C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/Src/WindowRender.cpp">
+			<Option target="TC8E"/>
+		</Unit>
+		<Unit filename="C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/Src/WindowRender.h">
+			<Option target="TC8E"/>
+		</Unit>
+		<Unit filename="C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/Src/main.cpp">
 			<Option target="TC8E"/>
 		</Unit>
 		<Unit filename="C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/CMakeLists.txt">
