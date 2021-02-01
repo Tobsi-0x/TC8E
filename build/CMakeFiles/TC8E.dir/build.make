@@ -90,19 +90,109 @@ CMakeFiles/TC8E.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TC8E.dir/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\main.cpp" -o CMakeFiles\TC8E.dir\main.cpp.s
 
+CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.obj: CMakeFiles/TC8E.dir/flags.make
+CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.obj: CMakeFiles/TC8E.dir/includes_CXX.rsp
+CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.obj: ../include/imGUI/imgui_sdl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TC8E.dir\include\imGUI\imgui_sdl.cpp.obj -c "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_sdl.cpp"
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_sdl.cpp" > CMakeFiles\TC8E.dir\include\imGUI\imgui_sdl.cpp.i
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_sdl.cpp" -o CMakeFiles\TC8E.dir\include\imGUI\imgui_sdl.cpp.s
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.obj: CMakeFiles/TC8E.dir/flags.make
+CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.obj: CMakeFiles/TC8E.dir/includes_CXX.rsp
+CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.obj: ../include/imGUI/imgui.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TC8E.dir\include\imGUI\imgui.cpp.obj -c "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui.cpp"
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui.cpp" > CMakeFiles\TC8E.dir\include\imGUI\imgui.cpp.i
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui.cpp" -o CMakeFiles\TC8E.dir\include\imGUI\imgui.cpp.s
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.obj: CMakeFiles/TC8E.dir/flags.make
+CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.obj: CMakeFiles/TC8E.dir/includes_CXX.rsp
+CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.obj: ../include/imGUI/imgui_widgets.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TC8E.dir\include\imGUI\imgui_widgets.cpp.obj -c "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_widgets.cpp"
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_widgets.cpp" > CMakeFiles\TC8E.dir\include\imGUI\imgui_widgets.cpp.i
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_widgets.cpp" -o CMakeFiles\TC8E.dir\include\imGUI\imgui_widgets.cpp.s
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.obj: CMakeFiles/TC8E.dir/flags.make
+CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.obj: CMakeFiles/TC8E.dir/includes_CXX.rsp
+CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.obj: ../include/imGUI/imgui_draw.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TC8E.dir\include\imGUI\imgui_draw.cpp.obj -c "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_draw.cpp"
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_draw.cpp" > CMakeFiles\TC8E.dir\include\imGUI\imgui_draw.cpp.i
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_draw.cpp" -o CMakeFiles\TC8E.dir\include\imGUI\imgui_draw.cpp.s
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.obj: CMakeFiles/TC8E.dir/flags.make
+CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.obj: CMakeFiles/TC8E.dir/includes_CXX.rsp
+CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.obj: ../include/imGUI/imgui_demo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TC8E.dir\include\imGUI\imgui_demo.cpp.obj -c "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_demo.cpp"
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_demo.cpp" > CMakeFiles\TC8E.dir\include\imGUI\imgui_demo.cpp.i
+
+CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\include\imGUI\imgui_demo.cpp" -o CMakeFiles\TC8E.dir\include\imGUI\imgui_demo.cpp.s
+
 # Object files for target TC8E
 TC8E_OBJECTS = \
-"CMakeFiles/TC8E.dir/main.cpp.obj"
+"CMakeFiles/TC8E.dir/main.cpp.obj" \
+"CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.obj" \
+"CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.obj" \
+"CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.obj" \
+"CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.obj" \
+"CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.obj"
 
 # External object files for target TC8E
 TC8E_EXTERNAL_OBJECTS =
 
 TC8E.exe: CMakeFiles/TC8E.dir/main.cpp.obj
+TC8E.exe: CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.obj
+TC8E.exe: CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.obj
+TC8E.exe: CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.obj
+TC8E.exe: CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.obj
+TC8E.exe: CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.obj
 TC8E.exe: CMakeFiles/TC8E.dir/build.make
+TC8E.exe: ../include/imGUI/imconfig.h
+TC8E.exe: ../include/imGUI/imgui.cpp
+TC8E.exe: ../include/imGUI/imgui.h
+TC8E.exe: ../include/imGUI/imgui_demo.cpp
+TC8E.exe: ../include/imGUI/imgui_draw.cpp
+TC8E.exe: ../include/imGUI/imgui_internal.h
+TC8E.exe: ../include/imGUI/imgui_sdl.h
+TC8E.exe: ../include/imGUI/imstb_rectpack.h
+TC8E.exe: ../include/imGUI/imstb_textedit.h
+TC8E.exe: ../include/imGUI/imstb_truetype.h
 TC8E.exe: CMakeFiles/TC8E.dir/linklibs.rsp
 TC8E.exe: CMakeFiles/TC8E.dir/objects1.rsp
 TC8E.exe: CMakeFiles/TC8E.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable TC8E.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable TC8E.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\TC8E.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

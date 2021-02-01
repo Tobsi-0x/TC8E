@@ -142,6 +142,141 @@ TC8E/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/build
 .PHONY : TC8E/fast
 
+include/imGUI/imgui.obj: include/imGUI/imgui.cpp.obj
+
+.PHONY : include/imGUI/imgui.obj
+
+# target to build an object file
+include/imGUI/imgui.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.obj
+.PHONY : include/imGUI/imgui.cpp.obj
+
+include/imGUI/imgui.i: include/imGUI/imgui.cpp.i
+
+.PHONY : include/imGUI/imgui.i
+
+# target to preprocess a source file
+include/imGUI/imgui.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.i
+.PHONY : include/imGUI/imgui.cpp.i
+
+include/imGUI/imgui.s: include/imGUI/imgui.cpp.s
+
+.PHONY : include/imGUI/imgui.s
+
+# target to generate assembly for a file
+include/imGUI/imgui.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui.cpp.s
+.PHONY : include/imGUI/imgui.cpp.s
+
+include/imGUI/imgui_demo.obj: include/imGUI/imgui_demo.cpp.obj
+
+.PHONY : include/imGUI/imgui_demo.obj
+
+# target to build an object file
+include/imGUI/imgui_demo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.obj
+.PHONY : include/imGUI/imgui_demo.cpp.obj
+
+include/imGUI/imgui_demo.i: include/imGUI/imgui_demo.cpp.i
+
+.PHONY : include/imGUI/imgui_demo.i
+
+# target to preprocess a source file
+include/imGUI/imgui_demo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.i
+.PHONY : include/imGUI/imgui_demo.cpp.i
+
+include/imGUI/imgui_demo.s: include/imGUI/imgui_demo.cpp.s
+
+.PHONY : include/imGUI/imgui_demo.s
+
+# target to generate assembly for a file
+include/imGUI/imgui_demo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_demo.cpp.s
+.PHONY : include/imGUI/imgui_demo.cpp.s
+
+include/imGUI/imgui_draw.obj: include/imGUI/imgui_draw.cpp.obj
+
+.PHONY : include/imGUI/imgui_draw.obj
+
+# target to build an object file
+include/imGUI/imgui_draw.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.obj
+.PHONY : include/imGUI/imgui_draw.cpp.obj
+
+include/imGUI/imgui_draw.i: include/imGUI/imgui_draw.cpp.i
+
+.PHONY : include/imGUI/imgui_draw.i
+
+# target to preprocess a source file
+include/imGUI/imgui_draw.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.i
+.PHONY : include/imGUI/imgui_draw.cpp.i
+
+include/imGUI/imgui_draw.s: include/imGUI/imgui_draw.cpp.s
+
+.PHONY : include/imGUI/imgui_draw.s
+
+# target to generate assembly for a file
+include/imGUI/imgui_draw.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_draw.cpp.s
+.PHONY : include/imGUI/imgui_draw.cpp.s
+
+include/imGUI/imgui_sdl.obj: include/imGUI/imgui_sdl.cpp.obj
+
+.PHONY : include/imGUI/imgui_sdl.obj
+
+# target to build an object file
+include/imGUI/imgui_sdl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.obj
+.PHONY : include/imGUI/imgui_sdl.cpp.obj
+
+include/imGUI/imgui_sdl.i: include/imGUI/imgui_sdl.cpp.i
+
+.PHONY : include/imGUI/imgui_sdl.i
+
+# target to preprocess a source file
+include/imGUI/imgui_sdl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.i
+.PHONY : include/imGUI/imgui_sdl.cpp.i
+
+include/imGUI/imgui_sdl.s: include/imGUI/imgui_sdl.cpp.s
+
+.PHONY : include/imGUI/imgui_sdl.s
+
+# target to generate assembly for a file
+include/imGUI/imgui_sdl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_sdl.cpp.s
+.PHONY : include/imGUI/imgui_sdl.cpp.s
+
+include/imGUI/imgui_widgets.obj: include/imGUI/imgui_widgets.cpp.obj
+
+.PHONY : include/imGUI/imgui_widgets.obj
+
+# target to build an object file
+include/imGUI/imgui_widgets.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.obj
+.PHONY : include/imGUI/imgui_widgets.cpp.obj
+
+include/imGUI/imgui_widgets.i: include/imGUI/imgui_widgets.cpp.i
+
+.PHONY : include/imGUI/imgui_widgets.i
+
+# target to preprocess a source file
+include/imGUI/imgui_widgets.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.i
+.PHONY : include/imGUI/imgui_widgets.cpp.i
+
+include/imGUI/imgui_widgets.s: include/imGUI/imgui_widgets.cpp.s
+
+.PHONY : include/imGUI/imgui_widgets.s
+
+# target to generate assembly for a file
+include/imGUI/imgui_widgets.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/include/imGUI/imgui_widgets.cpp.s
+.PHONY : include/imGUI/imgui_widgets.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -178,6 +313,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... TC8E
+	@echo ... include/imGUI/imgui.obj
+	@echo ... include/imGUI/imgui.i
+	@echo ... include/imGUI/imgui.s
+	@echo ... include/imGUI/imgui_demo.obj
+	@echo ... include/imGUI/imgui_demo.i
+	@echo ... include/imGUI/imgui_demo.s
+	@echo ... include/imGUI/imgui_draw.obj
+	@echo ... include/imGUI/imgui_draw.i
+	@echo ... include/imGUI/imgui_draw.s
+	@echo ... include/imGUI/imgui_sdl.obj
+	@echo ... include/imGUI/imgui_sdl.i
+	@echo ... include/imGUI/imgui_sdl.s
+	@echo ... include/imGUI/imgui_widgets.obj
+	@echo ... include/imGUI/imgui_widgets.i
+	@echo ... include/imGUI/imgui_widgets.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
