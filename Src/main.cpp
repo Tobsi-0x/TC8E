@@ -1,16 +1,18 @@
 // This is Tobsi's CHIP-8 Emulator (TC8E)
 // TC8E sounds like TC 80.
 
-#include <iostream>
+//#include <iostream>
 
-#include "include/SDL2/SDL.h"
+#include "SDL.h"
 
-#include <string>
+#include "WindowRender.h"
+
+//#include <string>
 
 int main(int argc, char* argv[])
 {
 
-	// https://wiki.libsdl.org/SDL_Init
+	/*// https://wiki.libsdl.org/SDL_Init
 	if (SDL_Init(SDL_INIT_EVERYTHING) != 0)
 	{
 		// SDL_Log("SDL Init: [FAILED] Error code: ", SDL_GetError());
@@ -45,7 +47,7 @@ int main(int argc, char* argv[])
 	a = 255; // 255
 	/* https://encycolorpedia.com/191970 & https://encycolorpedia.com/0e0e7b & https://encycolorpedia.com/191970 & https://encycolorpedia.com/14145a RED https://encycolorpedia.com/890000*/
 
-	SDL_SetRenderDrawColor(renderer, r, g, b, a);
+	/*SDL_SetRenderDrawColor(renderer, r, g, b, a);
 
 	bool IsRunning = true;
 
@@ -78,7 +80,9 @@ int main(int argc, char* argv[])
 	SDL_DestroyRenderer(renderer);
 	SDL_DestroyWindow(window);
 	//SDL_Delay(1500); // for me to see the console
-	SDL_Quit();
+	SDL_Quit();*/
+
+    WindowRender().WindowStartup("TC8E", 600, 400);
 
     return 0;
 }
@@ -103,5 +107,11 @@ int main(int argc, char* argv[])
  *
  * // CHIP-8 ROM PACK //
  * https://www.zophar.net/pdroms/chip8/chip-8-games-pack.html
+ *
+ * // CHIP-8 Specs //
+ *
+ * CHIP-8 8-bit registers (Labled V0 - VF. Each Register can hold any valu form 0x00 - 0xFF)
+ * Mem: 4096 bytes of memory        0x000 - 0xFFF       0x000 - 0x1FF CHIP-8 Interoreter    0x050 - 0x0A0 16 characters (controller)    0x200 - 0xFFF
+ * https://austinmorlan.com/posts/chip8_emulator/   16-bit Index Register
  *
  * */

@@ -93,12 +93,12 @@ clean: CMakeFiles/TC8E.dir/clean
 CMakeFiles/TC8E.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TC8E.dir\build.make CMakeFiles/TC8E.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" --progress-num=1,2,3,4,5,6,7 "Built target TC8E"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" --progress-num=1,2,3 "Built target TC8E"
 .PHONY : CMakeFiles/TC8E.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/TC8E.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" 7
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/TC8E.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\tsh40\Desktop\Emulators SRC\Tobsi\CHIP-8\CLion\TC8E\build\CMakeFiles" 0
 .PHONY : CMakeFiles/TC8E.dir/rule

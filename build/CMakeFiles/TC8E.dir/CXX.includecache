@@ -554,55 +554,21 @@ close_code.h
 
 ../include/SDL2/close_code.h
 
-C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/include/imGUI/imconfig.h
-
-C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/include/imGUI/imgui.h
-imconfig.h
-C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/include/imGUI/imconfig.h
-float.h
--
-stdarg.h
--
-stddef.h
--
-string.h
--
-assert.h
--
-stdint.h
--
-imgui_user.h
-C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/include/imGUI/imgui_user.h
-
-C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/include/imGUI/imgui_sdl.cpp
-imgui_sdl.h
-C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/include/imGUI/imgui_sdl.h
-SDL.h
-C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/include/imGUI/SDL.h
-SDL_pixels.h
-C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/include/imGUI/SDL_pixels.h
-imgui.h
-C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/include/imGUI/imgui.h
-map
--
-list
--
-cmath
--
-array
--
-vector
--
-memory
--
+C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/Src/WindowRender.cpp
 iostream
 -
-algorithm
--
-functional
--
-unordered_map
+WindowRender.h
+C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/Src/WindowRender.h
+SDL.h
+C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/Src/SDL.h
+
+C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/Src/WindowRender.h
+SDL.h
 -
 
-C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/include/imGUI/imgui_sdl.h
+C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/Src/main.cpp
+SDL.h
+C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/Src/SDL.h
+WindowRender.h
+C:/Users/tsh40/Desktop/Emulators SRC/Tobsi/CHIP-8/CLion/TC8E/Src/WindowRender.h
 
